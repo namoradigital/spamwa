@@ -15,6 +15,8 @@ $ ./main
 
 Atau bisa juga run script nya dg ketik perintah
 $ make run
+
+Token : EEKOA5g0A9z2mAO8h90FT9Nb5JtRJov7wIzPRJMkfoZlY5Ard
 ```
 </details>
 
