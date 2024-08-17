@@ -6,7 +6,7 @@
 
 ```php
 $ git clone https://github.com/namoradigital/spamwa.git
-$ cd litespam
+$ cd spamwa
 $ make install
 $ ./main
 
