@@ -5,7 +5,7 @@
 <details open><summary><code>Perintah Script?</code></summary>
 
 ```php
-$ git clone https://github.com/Sxp-ID/litespam
+$ git clone https://github.com/namoradigital/spamwa.git
 $ cd litespam
 $ make install
 $ ./main
