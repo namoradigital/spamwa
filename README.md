@@ -1,6 +1,6 @@
 
 
-# spamwa
+# Menggunakan Termux
 
 <details open><summary><code>Perintah Script?</code></summary>
 
